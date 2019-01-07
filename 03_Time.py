@@ -2,10 +2,10 @@ import time
 import datetime
 import locale
 
-# for i in range(1):
+'''for i in range(1):
 #     time.sleep(1)
 #     print(i)
-#############################################################################
+#############################################################################'''
 print("\n### Örnek Format 12.12.1986 ###\n")
 dogum=input("Doğum tarihinizi gün ay yıl şeklinde örnek formattaki gibi giriniz :  ")
 now=datetime.datetime.today()

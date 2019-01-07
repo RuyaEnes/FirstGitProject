@@ -56,7 +56,7 @@ while sayac == 0:           #Yapılacak işlem içeriği
         break
     else:
         print("Hatalı Giriş.")
-        continue
+        continues
 
     print(sayi)
         
